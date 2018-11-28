@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\ScalaProjects\CRUDApp\target\scala-2.12\crudapp_2.12-1.0-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mainpackage\ErrorHandler.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\mainpackage\ErrorHandler.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\AuthorController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\controllers\AuthorController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mainpackage\MyApplicationLoader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\mainpackage\MyApplicationLoader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\conf\routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\conf\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mainpackage\DBRunner.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\mainpackage\DBRunner.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repositories\AuthorRepository.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\repositories\AuthorRepository.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\BookController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\controllers\BookController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	database.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\conf\database.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Authors.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\models\Authors.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	production.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\conf\production.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Books.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\models\Books.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repositories\BookRepository.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\ScalaProjects\CRUDApp\app\repositories\BookRepository.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

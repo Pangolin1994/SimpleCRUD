@@ -1,0 +1,10 @@
+# Добавить книгу
+POST /create controllers.BookController.add
+# Получить список всех книг
+GET /read_books controllers.BookController.select
+# Обновить книгу по указанному ID
+PUT /update/{id} controllers.BookController.update(id: Int)
+# Удалить книгу по указанному ID
+DELETE /delete/{id} controllers.BookController.delete(id: Int)
+# Получить список авторов
+GET /read_authors controllers.AuthorController.select
